@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "EquipmentPurchases_Installer", "EquipmentPurchases_Installer\EquipmentPurchases_Installer.vdproj", "{34EDB0F5-7887-4ABC-A0AF-09F75D5AC9C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34EDB0F5-7887-4ABC-A0AF-09F75D5AC9C3}.Debug|Default.ActiveCfg = Debug
+		{34EDB0F5-7887-4ABC-A0AF-09F75D5AC9C3}.Debug|Default.Build.0 = Debug
+		{34EDB0F5-7887-4ABC-A0AF-09F75D5AC9C3}.Release|Default.ActiveCfg = Release
+		{34EDB0F5-7887-4ABC-A0AF-09F75D5AC9C3}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

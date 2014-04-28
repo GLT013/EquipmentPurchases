@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry including="*" kind="src" path="src">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="EquipmentPurchases/src"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/tjohnston.ENE/Desktop/EquipmentPurchases/trunk/EquipmentPurchases/References/core-renderer-R8pre2.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/tjohnston.ENE/Desktop/EquipmentPurchases/trunk/EquipmentPurchases/References/itext-2.1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/tjohnston.ENE/Desktop/EquipmentPurchases/trunk/EquipmentPurchases/References/itextpdf-5.3.5.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/tjohnston.ENE/Desktop/EquipmentPurchases/trunk/EquipmentPurchases/References/itext-pdfa-5.3.5.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/tjohnston.ENE/Desktop/EquipmentPurchases/trunk/EquipmentPurchases/References/itext-xtra-5.3.5.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/tjohnston.ENE/Desktop/EquipmentPurchases/trunk/EquipmentPurchases/References/jasperpal-050-6.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/tjohnston.ENE/Desktop/EquipmentPurchases/trunk/EquipmentPurchases/References/jcalendar-1.4(1).jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/tjohnston.ENE/Desktop/EquipmentPurchases/trunk/EquipmentPurchases/References/lablib-checkboxtree-3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/tjohnston.ENE/Desktop/EquipmentPurchases/trunk/EquipmentPurchases/References/mysql-connector-java-5.1.22-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/tjohnston.ENE/Desktop/EquipmentPurchases/trunk/EquipmentPurchases/References/h2-1.3.170.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/tjohnston.ENE/Desktop/EquipmentPurchases/trunk/EquipmentPurchases/img/enengineering.zip"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/tjohnston.ENE/Desktop/EquipmentPurchases/trunk/EquipmentPurchases/img/images.zip"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/tjohnston.ENE/Desktop/EquipmentPurchases/trunk/EquipmentPurchases/img/004238-3d-glossy-blue-orb-icon-arrows-arrow-more_128x128.zip"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/tjohnston.ENE/Desktop/EquipmentPurchases/trunk/EquipmentPurchases/img/backarrow.zip"/>
+	<classpathentry kind="lib" path="miglayout15-swing.jar" sourcepath="miglayout-src.zip"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/tjohnston.ENE/Desktop/EquipmentPurchases_Demo/img/075837-3d-glossy-blue-orb-icon-business-magnifying-glass-ps_64x64.zip"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/tjohnston.ENE/Desktop/EquipmentPurchases_Demo/img/075834-3d-glossy-blue-orb-icon-business-magic-wand_128x128.zip"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/tjohnston.ENE/Desktop/EquipmentPurchases_Demo/img/075834-3d-glossy-blue-orb-icon-business-magic-wand_85x85.zip"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/tjohnston.ENE/Desktop/EquipmentPurchases_Demo/References/zxing-core-1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/tjohnston.ENE/Desktop/EquipmentPurchases_Demo/References/zxing-j2se-1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/tjohnston.ENE/Desktop/EquipmentPurchases_Demo/References/qrgen-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/tjohnston.ENE/Desktop/EquipmentPurchases_Demo/img/square_blue_button_128x128.zip"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/tjohnston.ENE/Desktop/EquipmentPurchases_Demo/img/square_blue_button_85_85.zip"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/tjohnston.ENE/Desktop/EquipmentPurchases_Demo/img/075794-3d-glossy-blue-orb-icon-business-gears1-sc44_32x32.zip"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/tjohnston.ENE/Desktop/EquipmentPurchases_Demo/img/075748-3d-glossy-blue-orb-icon-business-diskette-save_85x85.zip"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/tjohnston.ENE/Desktop/EquipmentPurchases_Demo/img/067861-3d-glossy-blue-orb-icon-alphanumeric-crossing_85x85.zip"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
